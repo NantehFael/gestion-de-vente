@@ -1,0 +1,39 @@
+.bgcolor {
+    min-height: 100vh;
+    background: #ECEFF1;
+    background: linear-gradient(158deg, rgb(224, 224, 224) 0%, (233,237, 254)100%);
+}
+.bgcolor {
+    background-color: #f4f6f9; /* Couleur de fond douce pour ne pas être trop agressif pour les yeux */
+    min-height: 100vh; /* Assure que la page prend toute la hauteur de l'écran */
+  }
+  
+  .main-content {
+    padding: 20px; /* Espacement autour du contenu principal */
+  }
+  
+  .header-title {
+    font-size: 2rem; /* Taille de la police pour le titre */
+    font-weight: bold; /* Met le titre en gras */
+    color: #333; /* Couleur du texte pour une bonne lisibilité */
+    margin-bottom: 20px; /* Espacement en dessous du titre */
+  }
+  
+  .info-card {
+    background-color: #fff; /* Fond blanc pour les cartes d'information */
+    border-radius: 8px; /* Coins arrondis pour un effet moderne */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre légère pour donner de la profondeur */
+    padding: 20px; /* Espacement interne de la carte */
+    margin-bottom: 20px; /* Espacement entre les cartes */
+  }
+  
+  .info-card h2 {
+    font-size: 1.5rem; /* Taille de la police pour les sous-titres des cartes */
+    margin-bottom: 10px; /* Espacement en dessous des sous-titres */
+  }
+  
+  .info-card p {
+    font-size: 1rem; /* Taille de la police pour le texte */
+    color: #666; /* Couleur du texte pour plus de contraste */
+  }
+  
